@@ -30,8 +30,8 @@
 
   ```json
   {
-  "email": "renattamoeloek@gmail.com",
-  "password": "12345678"
+    "email": "renattamoeloek@gmail.com",
+    "password": "12345678"
   }
 Note: You will receive a token which is used for authorization.
 
@@ -47,7 +47,7 @@ Note: You will receive a token which is used for authorization.
 
   ```json
   {
-  "itemId": "6643f85841cb5d75135f7e19"
+    "itemId": "6643f85841cb5d75135f7e19"
   }
 
 ### 2. Remove from Cart (Authorization Required)
@@ -60,7 +60,7 @@ Note: You will receive a token which is used for authorization.
 
   ```json
   {
-  "itemId": "6643f85841cb5d75135f7e19"
+    "itemId": "6643f85841cb5d75135f7e19"
   }
 
 ### 3. Get Cart (Authorization Required)
@@ -80,11 +80,11 @@ Note: You will receive a token which is used for authorization.
 
   ```json
   {
-  "name": "Chocolate Brownie",
-  "description": "it's delicious!",
-  "price": "20",
-  "category": "brownie",
-  "image": "chocobrownie.jpg"
+    "name": "Chocolate Brownie",
+    "description": "it's delicious!",
+    "price": "20",
+    "category": "brownie",
+    "image": "chocobrownie.jpg"
   }
 
 ### 2. List Food
@@ -100,9 +100,5 @@ Note: You will receive a token which is used for authorization.
 
   ```json
   {
-  "id": "6642399470c89db1b26e7529"
+    "id": "6642399470c89db1b26e7529"
   }
-  
-
-
-
